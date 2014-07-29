@@ -5,7 +5,7 @@ A list of references, articles, guides, and bookmarks that are particularly
 useful for working at Magoosh. If you find any new articles that you think are
 insightful or would help new Magooshers, then please, please add them :)
 
-[A.B.L. A. Always. B. Be. L. Learning.](http://www.youtube.com/watch?v=AO_t7GtXO6w)
+(Inspired by [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness))
 
 * [Product & Programming](#product--programming)
   * [Rails Libraries](#rails-libraries)
@@ -79,3 +79,5 @@ Need links on:
 * [On Commit Messages](http://who-t.blogspot.de/2009/12/on-commit-messages.html)
 * [Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 * [Engineering Management](http://algeri-wong.com/yishan/engineering-management.html)
+
+...and remember: [A.B.L. A. Always. B. Be. L. Learning.](http://www.youtube.com/watch?v=AO_t7GtXO6w)
