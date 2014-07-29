@@ -7,6 +7,8 @@ insightful or would help new Magooshers, then please, please add them :)
 
 [A.B.L. A. Always. B. Be. L. Learning.](http://www.youtube.com/watch?v=AO_t7GtXO6w)
 
+#### Table of Contents
+
 * [Product & Programming](#product--programming)
   * [Rails Libraries](#rails-libraries)
   * [Patterns & Best Practices](#patterns--best-practices)
@@ -18,7 +20,7 @@ insightful or would help new Magooshers, then please, please add them :)
 Product & Programming
 ---------------------
 
-#### Rails Libraries:
+#### Rails Libraries
 
 * [HAML Tutorial](http://haml.info/tutorial.html) (HTML templates)
 * [SASS Basics](http://sass-lang.com/guide) (CSS templates)
@@ -28,7 +30,7 @@ Product & Programming
 * [Formtastic](https://github.com/justinfrench/formtastic) (DSL for HTML forms)
 * [Squeel](https://github.com/activerecord-hackery/squeel) (Complex ActiveRecord queries)
 
-#### Patterns & Best Practices:
+#### Patterns & Best Practices
 
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Ruby on Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
@@ -36,7 +38,7 @@ Product & Programming
 * [Best Practices for Designing a RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Superhero.js](http://superherojs.com/) (JavaScript guides)
 
-#### Reliability & Performance:
+#### Reliability & Performance
 
 * [Use The Index, Luke!](http://use-the-index-luke.com/sql/preface) (MySQL indexes)
 * [Using EXPLAIN to Write Better MySQL Queries](http://www.sitepoint.com/using-explain-to-write-better-mysql-queries/)
@@ -45,7 +47,7 @@ Product & Programming
 * [AWS Tips, Tricks, and Techniques](https://launchbylunch.com/posts/2014/Jan/29/aws-tips/)
 * [AWS Tips I Wish I'd Known Before I Started](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
 
-#### HTML5 Mobile Apps:
+#### HTML5 Mobile Apps
 
 * [Ionic Framework](http://ionicframework.com/docs/)
 * [Lineman.js](http://www.linemanjs.com/)
@@ -62,7 +64,7 @@ Need links on:
 * What are filters?
 * More?...
 
-#### Product Strategy & Design:
+#### Product Strategy & Design
 
 * [Intercom: Product Strategy Means Saying No](http://insideintercom.io/product-strategy-means-saying-no/)
   (summarized in [7 minutes](http://insideintercom.io/talk-product-strategy-saying/))
@@ -72,7 +74,7 @@ Need links on:
 * [Five Ways To Prevent Bad Microcopy](http://uxdesign.smashingmagazine.com/2013/06/17/five-ways-prevent-bad-microcopy/)
 * [Quick Course on Effective Website Copywriting](http://www.smashingmagazine.com/2012/05/18/quick-course-on-effective-website-copywriting/)
 
-#### Communication & Culture:
+#### Communication & Culture
 
 * [The Best Code isn't Code](http://zachholman.com/posts/documentation/)
   (tl;dr -- it's documentation)
