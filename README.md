@@ -37,7 +37,7 @@ Product & Programming
 * [7 Patterns to Refactor ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [Best Practices for Designing a RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Superhero.js](http://superherojs.com/) (JavaScript guides)
-* [Email Design Inspiration](http://reallygoodemails.com/)
+* [Ruby DSLs](http://engineering.zenpayroll.com/benefits-of-writing-a-dsl/)
 
 #### Reliability & Performance
 
@@ -74,6 +74,7 @@ Need links on:
 * [A Design Primer for Engineers](http://randsinrepose.com/archives/a-design-primer-for-engineers/)
 * [Five Ways To Prevent Bad Microcopy](http://uxdesign.smashingmagazine.com/2013/06/17/five-ways-prevent-bad-microcopy/)
 * [Quick Course on Effective Website Copywriting](http://www.smashingmagazine.com/2012/05/18/quick-course-on-effective-website-copywriting/)
+* [Email Design Inspiration](http://reallygoodemails.com/)
 
 #### Communication & Culture
 
