@@ -14,6 +14,7 @@ insightful or would help new Magooshers, then please, please add them :)
   * [Patterns & Best Practices](#patterns--best-practices)
   * [Reliability & Performance](#reliability--performance)
   * [HTML5 Mobile Apps](#html5-mobile-apps)
+  * [Advanced Browser Topics](#advanced-browser-topics)
   * [Product Strategy & Design](#product-strategy--design)
   * [Communication & Culture](#communication--culture)
   
@@ -64,6 +65,12 @@ Need links on:
 * How does routing work?
 * What are filters?
 * More?...
+
+#### Advanced Browser Topics
+
+* [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+* [What the Heck is Shadow DOM?](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
+* [Why ContentEditable is Terrible](https://medium.com/medium-eng/why-contenteditable-is-terrible-122d8a40e480)
 
 #### Product Strategy & Design
 
