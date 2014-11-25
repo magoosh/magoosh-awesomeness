@@ -71,6 +71,7 @@ Need links on:
 * [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 * [What the Heck is Shadow DOM?](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 * [Why ContentEditable is Terrible](https://medium.com/medium-eng/why-contenteditable-is-terrible-122d8a40e480)
+* [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 #### Product Strategy & Design
 
