@@ -90,6 +90,7 @@ Need links on:
   (tl;dr -- it's documentation)
 * [On Commit Messages](http://who-t.blogspot.de/2009/12/on-commit-messages.html)
 * [Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+* [Software Lead Weekly](http://softwareleadweekly.com/)
 * [Engineering Management](http://algeri-wong.com/yishan/engineering-management.html)
 
 ...and remember: [A.B.L. A. Always. B. Be. L. Learning.](http://www.youtube.com/watch?v=AO_t7GtXO6w)
