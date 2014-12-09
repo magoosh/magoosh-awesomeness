@@ -55,6 +55,7 @@ Product & Programming
 * [Lineman.js](http://www.linemanjs.com/)
 * [persistence.js](https://github.com/coresmart/persistencejs)
 * [A Practical Guide to AngularJS Directives](http://www.sitepoint.com/practical-guide-angularjs-directives/)
+* [The Offline Cookbook](http://jakearchibald.com/2014/offline-cookbook/)
 
 Need links on:
 
