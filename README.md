@@ -12,9 +12,9 @@ insightful or would help new Magooshers, then please, please add them :)
 * [Product & Programming](#product--programming)
   * [Rails Libraries](#rails-libraries)
   * [Patterns & Best Practices](#patterns--best-practices)
+  * [Front-End Web](#front-end-web)
   * [Reliability & Performance](#reliability--performance)
   * [HTML5 Mobile Apps](#html5-mobile-apps)
-  * [Advanced Browser Topics](#advanced-browser-topics)
   * [Product Strategy & Design](#product-strategy--design)
   * [Communication & Culture](#communication--culture)
   
@@ -37,8 +37,15 @@ Product & Programming
 * [Ruby on Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 * [7 Patterns to Refactor ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [Best Practices for Designing a RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-* [Superhero.js](http://superherojs.com/) (JavaScript guides)
 * [Ruby DSLs](http://engineering.zenpayroll.com/benefits-of-writing-a-dsl/)
+
+#### Front-End Web
+* [Bootstrap CSS Framework](http://getbootstrap.com/) (We use [2.3.2](http://getbootstrap.com/2.3.2/))
+* [Superhero.js](http://superherojs.com/) (JavaScript guides)
+* [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+* [What the Heck is Shadow DOM?](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
+* [Why ContentEditable is Terrible](https://medium.com/medium-eng/why-contenteditable-is-terrible-122d8a40e480)
+* [Intro to Functional Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 #### Reliability & Performance
 
@@ -66,13 +73,6 @@ Need links on:
 * How does routing work?
 * What are filters?
 * More?...
-
-#### Advanced Browser Topics
-
-* [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
-* [What the Heck is Shadow DOM?](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
-* [Why ContentEditable is Terrible](https://medium.com/medium-eng/why-contenteditable-is-terrible-122d8a40e480)
-* [Intro to Functional Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 #### Product Strategy & Design
 
