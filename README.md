@@ -53,6 +53,7 @@ Product & Programming
 * [Using EXPLAIN to Write Better MySQL Queries](http://www.sitepoint.com/using-explain-to-write-better-mysql-queries/)
   (Debugging MySQL performance)
 * [The Twelve-Factor App](http://12factor.net/) (DevOps best practices)
+* [Guide to Building a Scalable Web App on Amazon Web Services](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
 * [AWS Tips, Tricks, and Techniques](https://launchbylunch.com/posts/2014/Jan/29/aws-tips/)
 * [AWS Tips I Wish I'd Known Before I Started](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
 
