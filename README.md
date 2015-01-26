@@ -15,7 +15,7 @@ insightful or would help new Magooshers, then please, please add them :)
   * [Front-End Web](#front-end-web)
   * [Reliability & Performance](#reliability--performance)
   * [HTML5 Mobile Apps](#html5-mobile-apps)
-  * [Product Strategy & Design](#product-strategy--design)
+  * [Product Design](#product-design)
   * [Communication & Culture](#communication--culture)
   
 Product & Programming
@@ -75,16 +75,17 @@ Need links on:
 * What are filters?
 * More?...
 
-#### Product Strategy & Design
+#### Product Design
 
 * [Intercom: Product Strategy Means Saying No](http://insideintercom.io/product-strategy-means-saying-no/)
   (summarized in [7 minutes](http://insideintercom.io/talk-product-strategy-saying/))
-* [How We Design at Intercom](http://insideintercom.io/how-we-design-at-intercom/) (design process)
+* [How We Design at Intercom](http://insideintercom.io/how-we-design-at-intercom/)
 * [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 * [A Design Primer for Engineers](http://randsinrepose.com/archives/a-design-primer-for-engineers/)
 * [Five Ways To Prevent Bad Microcopy](http://uxdesign.smashingmagazine.com/2013/06/17/five-ways-prevent-bad-microcopy/)
 * [Quick Course on Effective Website Copywriting](http://www.smashingmagazine.com/2012/05/18/quick-course-on-effective-website-copywriting/)
 * [Send Email As A Startup](https://github.com/sourceful/send-email-as-a-startup)
+* [Pttrns](http://www.pttrns.com/) (mobile UI examples)
 * [Email Design Inspiration](http://reallygoodemails.com/)
 
 #### Communication & Culture
