@@ -82,6 +82,7 @@ Need links on:
 * [How We Design at Intercom](http://insideintercom.io/how-we-design-at-intercom/)
 * [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 * [A Design Primer for Engineers](http://randsinrepose.com/archives/a-design-primer-for-engineers/)
+* [User Onboarding Teardowns](http://www.useronboard.com/onboarding-teardowns/)
 * [Five Ways To Prevent Bad Microcopy](http://uxdesign.smashingmagazine.com/2013/06/17/five-ways-prevent-bad-microcopy/)
 * [Quick Course on Effective Website Copywriting](http://www.smashingmagazine.com/2012/05/18/quick-course-on-effective-website-copywriting/)
 * [Send Email As A Startup](https://github.com/sourceful/send-email-as-a-startup)
