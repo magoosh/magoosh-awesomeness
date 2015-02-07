@@ -30,6 +30,7 @@ Product & Programming
   (DRY Rails controllers)
 * [Formtastic](https://github.com/justinfrench/formtastic) (DSL for HTML forms)
 * [Squeel](https://github.com/activerecord-hackery/squeel) (Complex ActiveRecord queries)
+* [Awesome Ruby](http://awesome-ruby.com) (list of any Ruby library you'll ever need)
 
 #### Patterns & Best Practices
 
