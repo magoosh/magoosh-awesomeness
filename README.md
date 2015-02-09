@@ -92,6 +92,7 @@ Need links on:
 
 #### Communication & Culture
 
+* [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 * [The Best Code isn't Code](http://zachholman.com/posts/documentation/)
   (tl;dr -- it's documentation)
 * [On Commit Messages](http://who-t.blogspot.de/2009/12/on-commit-messages.html)
