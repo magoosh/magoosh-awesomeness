@@ -31,6 +31,7 @@ Product & Programming
 * [Formtastic](https://github.com/justinfrench/formtastic) (DSL for HTML forms)
 * [Squeel](https://github.com/activerecord-hackery/squeel) (Complex ActiveRecord queries)
 * [Awesome Ruby](http://awesome-ruby.com) (list of any Ruby library you'll ever need)
+* [Railscast: Routing Walkthrough](http://railscasts.com/episodes/231-routing-walkthrough)
 
 #### Patterns & Best Practices
 
@@ -48,6 +49,7 @@ Product & Programming
 * [Why ContentEditable is Terrible](https://medium.com/medium-eng/why-contenteditable-is-terrible-122d8a40e480)
 * [Intro to Functional Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [How Facebook Builds Websites (with React.JS)](https://medium.com/gyroscope-innovations/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2)
+* [We Have a Problem With Promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 
 #### Reliability & Performance
 
@@ -71,9 +73,7 @@ Need links on:
 
 * How do scopes work?...
 * How does the digest loop work?
-* Promises?...
 * Service vs. Factory vs. ___ ?
-* How does routing work?
 * What are filters?
 * More?...
 
@@ -100,5 +100,6 @@ Need links on:
 * [Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 * [Software Lead Weekly](http://softwareleadweekly.com/)
 * [Engineering Management](http://algeri-wong.com/yishan/engineering-management.html)
+* [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
 ...and remember: [A.B.L. A. Always. B. Be. L. Learning.](http://www.youtube.com/watch?v=AO_t7GtXO6w)
