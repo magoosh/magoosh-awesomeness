@@ -47,6 +47,7 @@ Product & Programming
 * [What the Heck is Shadow DOM?](http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 * [Why ContentEditable is Terrible](https://medium.com/medium-eng/why-contenteditable-is-terrible-122d8a40e480)
 * [Intro to Functional Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+* [How Facebook Builds Websites (with React.JS)](https://medium.com/gyroscope-innovations/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2)
 
 #### Reliability & Performance
 
