@@ -79,6 +79,7 @@ Need links on:
 
 #### Product Design
 
+* [How to do User Interviews](http://alistapart.com/article/interviewing-humans)
 * [Intercom: Product Strategy Means Saying No](http://insideintercom.io/product-strategy-means-saying-no/)
   (summarized in [7 minutes](http://insideintercom.io/talk-product-strategy-saying/))
 * [How We Design at Intercom](http://insideintercom.io/how-we-design-at-intercom/)
