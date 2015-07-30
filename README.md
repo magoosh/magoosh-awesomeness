@@ -101,6 +101,7 @@ Need links on:
 * [Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 * [Software Lead Weekly](http://softwareleadweekly.com/)
 * [Engineering Management](http://algeri-wong.com/yishan/engineering-management.html)
+* [90-day Plan to Become an Engineering Manager](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
 ...and remember: [A.B.L. A. Always. B. Be. L. Learning.](http://www.youtube.com/watch?v=AO_t7GtXO6w)
