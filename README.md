@@ -15,8 +15,10 @@ insightful or would help new Magooshers, then please, please add them :)
   * [Front-End Web](#front-end-web)
   * [Reliability & Performance](#reliability--performance)
   * [HTML5 Mobile Apps](#html5-mobile-apps)
-  * [Product Design](#product-design)
+  * [Product Management](#product-management)
+  * [UI Design](#ui-design)
   * [Communication & Culture](#communication--culture)
+  * [Engineering Management](#engineering-management)
   
 Product & Programming
 ---------------------
@@ -77,12 +79,16 @@ Need links on:
 * What are filters?
 * More?...
 
-#### Product Design
+#### Product Management
 
+* [Talking to Humans](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf) (ebook)
 * [How to do User Interviews](http://alistapart.com/article/interviewing-humans)
 * [Intercom: Product Strategy Means Saying No](http://insideintercom.io/product-strategy-means-saying-no/)
   (summarized in [7 minutes](http://insideintercom.io/talk-product-strategy-saying/))
 * [How We Design at Intercom](http://insideintercom.io/how-we-design-at-intercom/)
+
+#### UI Design
+
 * [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 * [A Design Primer for Engineers](http://randsinrepose.com/archives/a-design-primer-for-engineers/)
 * [User Onboarding Teardowns](http://www.useronboard.com/onboarding-teardowns/)
@@ -99,9 +105,12 @@ Need links on:
   (tl;dr -- it's documentation)
 * [On Commit Messages](http://who-t.blogspot.de/2009/12/on-commit-messages.html)
 * [Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
-* [Software Lead Weekly](http://softwareleadweekly.com/)
-* [Engineering Management](http://algeri-wong.com/yishan/engineering-management.html)
-* [90-day Plan to Become an Engineering Manager](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
+
+#### Engineering Management
+
+* [Software Lead Weekly](http://softwareleadweekly.com/)
+* [Engineering Management](http://algeri-wong.com/yishan/engineering-management.html) (advice from Facebook's director of engineering)
+* [90-day Plan to Become an Engineering Manager](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
 
 ...and remember: [A.B.L. A. Always. B. Be. L. Learning.](http://www.youtube.com/watch?v=AO_t7GtXO6w)
