@@ -106,6 +106,7 @@ Need links on:
 * [On Commit Messages](http://who-t.blogspot.de/2009/12/on-commit-messages.html)
 * [Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
+* [How to Give Good Status Reports](https://medium.com/@VinayRamani/so-how-is-the-project-doing-53b62efae3ea)
 
 #### Engineering Management
 
