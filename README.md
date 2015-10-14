@@ -10,6 +10,7 @@ insightful or would help new Magooshers, then please, please add them :)
 #### Table of Contents
 
 * [Product & Programming](#product--programming)
+  * [Learning Rails](#learning-rails)
   * [Rails Libraries](#rails-libraries)
   * [Patterns & Best Practices](#patterns--best-practices)
   * [Front-End Web](#front-end-web)
@@ -22,6 +23,10 @@ insightful or would help new Magooshers, then please, please add them :)
   
 Product & Programming
 ---------------------
+
+#### Learning Rails
+
+* [RailsConf talks](http://confreaks.tv/events/railsconf2015)
 
 #### Rails Libraries
 
