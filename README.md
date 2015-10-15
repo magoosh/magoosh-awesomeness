@@ -27,6 +27,7 @@ Product & Programming
 #### Learning Rails
 
 * [Rails Guides](http://guides.rubyonrails.org/)
+* [RailsCasts](http://railscasts.com/)
 * [RailsConf 2015 talks](http://confreaks.tv/events/railsconf2015)
 
 #### Rails Libraries
