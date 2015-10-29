@@ -49,6 +49,7 @@ Product & Programming
 * [7 Patterns to Refactor ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * [Best Practices for Designing a RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Ruby DSLs](http://engineering.zenpayroll.com/benefits-of-writing-a-dsl/)
+* [Ruby Weekly](http://rubyweekly.com/) (aggregator of Ruby news and articles)
 
 #### Front-End Web
 * [Bootstrap CSS Framework](http://getbootstrap.com/) (We use [2.3.2](http://getbootstrap.com/2.3.2/))
