@@ -121,5 +121,6 @@ Need links on:
 * [Software Lead Weekly](http://softwareleadweekly.com/)
 * [Engineering Management](http://algeri-wong.com/yishan/engineering-management.html) (advice from Facebook's director of engineering)
 * [90-day Plan to Become an Engineering Manager](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/)
+* [My Two Year Journey as a Data Scientist at Twitter](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6#.67v3tsq9l)
 
 ...and remember: [A.B.L. A. Always. B. Be. L. Learning.](http://www.youtube.com/watch?v=AO_t7GtXO6w)
