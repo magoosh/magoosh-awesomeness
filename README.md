@@ -94,6 +94,7 @@ Need links on:
 * [Intercom: Product Strategy Means Saying No](http://insideintercom.io/product-strategy-means-saying-no/)
   (summarized in [7 minutes](http://insideintercom.io/talk-product-strategy-saying/))
 * [How We Design at Intercom](http://insideintercom.io/how-we-design-at-intercom/)
+* [Product Prioritization at Intercom](https://blog.intercom.io/rice-simple-prioritization-for-product-managers/)
 
 #### UI Design
 
